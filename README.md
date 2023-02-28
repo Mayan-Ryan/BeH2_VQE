@@ -1,4 +1,4 @@
-# Simulation of BeH2 molecule
+# Ground State Energy Calculation of BeH2 Molecule Using Variational Quantum Eigensolver (VQE) Algorithm in Qiskit Nature
 
 ### Introduction:
 
